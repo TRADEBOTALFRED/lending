@@ -118,41 +118,6 @@
           }
         },
         {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Укажите ваши данные",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
-          "form": {
-            "action": "cripto.tyan@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "ID HERBALIFE"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-4"
-        },
-        {
           "_inherit": "msg-box1",
           "_params": {
             "showTitle": true,
