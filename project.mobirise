@@ -99,7 +99,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "Консультация по развитиию сети",
+          "title": "Консультация по развитиию сети в Узбекистане&nbsp;",
           "text": "небольшое описание услуги",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Получить консультацию</a> ",
           "alias": "purity/components",
@@ -139,7 +139,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Заполните контактную информацию получателя услуги в Узбекистане",
+          "title": "Заполните информацию об адресате адресате в Узбекистане",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
