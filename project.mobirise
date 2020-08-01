@@ -7,14 +7,16 @@
       "styling": {},
       "titlePreset": "Landing Page",
       "nameSelectPreset": "landing",
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#044604"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "name": "Site-06-25_1118",
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 5,
+    "uniqCompNum": 10,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -29,55 +31,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Herbalife</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-0"
-        },
         {
           "_inherit": "header1",
           "_params": {
@@ -99,8 +52,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "Консультация по развитиию сети в Узбекистане&nbsp;",
-          "text": "небольшое описание услуги",
+          "title": "Консультация по развитиию бизнеса в Узбекистане&nbsp;",
+          "text": "В связи с открытие центра продаж Herbalife в Узбекистане, мы оказываем консультационные услуги для Независимых Партнеров Herbalife в России по организации бизнеса в Узбекистане и построению структуры в новом регионе<br>Также вы можете заказать доставку бесплатных промоматериалов в Узбекистан.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Получить консультацию</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -130,7 +83,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -139,7 +92,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Заполните информацию о независимом партнере в Узбекистане",
+          "title": "Стоимость 1 часа консультации 2500 рублей",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
@@ -147,7 +100,49 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3"
+          "_anchor": "msg-box2-8",
+          "_styles": {
+            "H2": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Введите контактные данные получателя промо-пакета в Узбекистане",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -158,13 +153,13 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "Заполните контактную информацию получателя в Узбекистане",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Оплатить&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Оплатить&nbsp;</a>",
           "form": {
             "action": "cripto.tyan@gmail.com",
             "alerts": {
@@ -200,6 +195,38 @@
           "_anchor": "form1-0"
         },
         {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "К оплате К часов консультации 2500 рублей",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ОПЛАТИТЬ</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-5"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -207,24 +234,18 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#26272c",
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\" class=\"text-info\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-info\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-info\">Download for Mac</a></li></ul>",
+          "text": "Констактная информация о компании если требуется ля платежной системы &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-9"
+          "_name": "footer1",
+          "_anchor": "footer1-9"
         }
       ]
     }
