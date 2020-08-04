@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -296,7 +296,7 @@
       },
       "components": [
         {
-          "text": "<p>При оплате произошла ошибка!</p><p>Поропуйте оформить услугу еще раз!&nbsp;</p>",
+          "text": "<p>При оплате произошла ошибка!</p><p>Поропуйте оформить услугу еще раз! &nbsp;</p><p>тел +7 968 783 40 22</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
