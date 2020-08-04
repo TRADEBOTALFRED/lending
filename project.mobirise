@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -53,7 +53,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "Консультация по развитиию бизнеса в Узбекистане&nbsp;",
-          "text": "В связи с открытие центра продаж Herbalife в Узбекистане, мы оказываем консультационные услуги для Независимых Партнеров Herbalife в России по организации бизнеса в Узбекистане и построению структуры в новом регионе<br>Также вы можете заказать доставку бесплатных промоматериалов в Узбекистан.&nbsp;",
+          "text": "В связи с открытием Центра Продаж Herbalife &nbsp;Nutrition в Узбекистане, мы оказываем консультационные услуги для Независимых Партнеров Herbalife Nutrition в России по организации бизнеса в Узбекистане и построению структуры в новом регионе.<br>Также вы можете заказать доставку бесплатных промоматериалов в Узбекистан.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Получить консультацию</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -92,7 +92,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Стоимость 1 часа консультации 2500 рублей",
+          "title": "Стоимость 1 часа консультации 761 рубль",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
@@ -103,7 +103,8 @@
           "_anchor": "msg-box2-8",
           "_styles": {
             "H2": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "36px"
             }
           }
         },
@@ -140,7 +141,8 @@
           "_anchor": "msg-box2-3",
           "_styles": {
             "H2": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "36px"
             }
           }
         },
@@ -216,7 +218,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "К оплате К часов консультации 2500 рублей",
+          "title": "К оплате ___ рублей",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ОПЛАТИТЬ</a>",
           "alias": "purity/components",
